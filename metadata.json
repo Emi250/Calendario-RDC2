@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Disponibilidad Departamental",
+  "description": "Una aplicación para gestionar la disponibilidad de 4 departamentos con una interfaz de calendario oscura. Permite bloquear/desbloquear fechas y analizar la disponibilidad con IA.",
+  "requestFramePermissions": []
+}
